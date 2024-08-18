@@ -20,25 +20,23 @@ Here are some ideas to get you started:
 <h3 align="center">Software Developer</h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/salim-bamahfoodh-707b74200/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="moyasi" height="30" width="40" /></a>
-<a href="https://github.com/Salimer" target="blank" ><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="30" height="40" /></a>
-<a href="https://www.facebook.com/S.Bamahfoodh/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Mahmudur Rahman" height="30" width="40" /></a>
-<!-- <a href="https://www.hackerrank.com/Moyasi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@Moyasi" height="30" width="40" /></a> -->
-<a href="https://twitter.com/SaLiM355173" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="moyasi_ginko" height="30" width="40" /></a>
-<a href = "mailto: s.bamahfoodh@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
-<a href="https://wa.me/+905338417810" target="blank" > <img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' width="30" height='40' /></a>
+<a href="https://www.linkedin.com/in/ali-ben-jahlan-06848022a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="moyasi" height="30" width="40" /></a>
+<a href="https://github.com/Ali-tech-tech" target="blank" ><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="30" height="40" /></a>
+<a href="https://www.facebook.com/share/i9m6jak23og75MKW/?mibextid=qi2Omg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Ali Ben Jahlan" height="30" width="40" /></a>
+<!-- <a href="https://www.hackerrank.com/alijhlan01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@Moyasi" height="30" width="40" /></a> -->
+
+<a href = "mailto: alibenjhlan@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
+<a href="https://wa.me/+967 775892126" target="blank" > <img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' width="30" height='40' /></a>
 </p>
 
-<p align="center"> <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Salimer"</img> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Salimer&label=Views&color=blue&style=plastic" alt="Salimer" /></p>
 <!-- Software Developer
 --------------------- -->
 
 <!--
-I am a continuous improvement fullstack developer.<br/> 
+I am a continuous improvement Mobile developer.<br/> 
 I would like to build technology to improve people's lives.<br/> 
-I have changed my career because of the covid quarantine :mask:, that was hard, but I have discovered this exciting new world for me, so I have burned the ships. 
+ 
 -->
 
 - 🔭  I graduated as a **Software Developer** at <img src="https://avatars.githubusercontent.com/u/22550229?s=200&v=4" width="14" height="14"> Microverse. 😄 
