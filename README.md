@@ -8,7 +8,7 @@
 <a href="https://www.facebook.com/share/i9m6jak23og75MKW/?mibextid=qi2Omg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Ali Ben Jahlan" height="30" width="40" /></a>
 <!-- <a href="https://www.hackerrank.com/alijhlan01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@Moyasi" height="30" width="40" /></a> -->
 <a href = "mailto: alibenjhlan@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
-<a href="https://wa.me/+967 775892126" target="blank" > <img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' width="30" height='40' /></a>
+<a href="https://wa.me/+967775892126" target="blank" > <img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' width="30" height='40' /></a>
 </p>
 
 
