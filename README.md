@@ -39,8 +39,6 @@ I would like to build technology to improve people's lives.<br/>
  
 -->
 
-- 🔭  I graduated as a **Software Developer** at <img src="https://avatars.githubusercontent.com/u/22550229?s=200&v=4" width="14" height="14"> Microverse. 😄 
-- 🌱  I learned the best practices for working as a remote software developer at ![](https://img.shields.io/badge/-Microverse-blueviolet)
 - 🌍  I am currently based in Mukalla, Yemen, but I am eager to work in other parts of the world. 😉
 - 🌟 💻 I am a Flutter magician ✨ and I thrive on unraveling intricate coding conundrums!" 🚀 Whether it's diving deep into Flutter's enchanting components or scripting spellbinding solutions with Dart, I find sheer joy in the art of programming sorcery. 🎩✨
 - 🤝  I am looking to collaborate with people around the world on different projects.
