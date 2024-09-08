@@ -63,6 +63,7 @@ I would like to build technology to improve people's lives.<br/>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ali-tech-tech&show_icons=true&theme=merko&layout=compact&hide_border=true" alt="Ali-tech-tech" />
 <a href="https://stardev.io/developers/ALI-tech-tech"><img alt="Check out ALI-tech-tech's profile on stardev.io" src="https://stardev.io/developers/ALI-tech-tech/badge/languages/global.svg" /></a>
+
 ### Badges
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ali-tech-tech)](https://github.com/ryo-ma/github-profile-trophy)
