@@ -76,6 +76,14 @@ I would like to build technology to improve people's lives.<br/>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ali-tech-tech)](https://github.com/ryo-ma/github-profile-trophy)
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Ali-tech-tech/Ali-tech-tech/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
 <h3 align="center">To be continued...</h3>
 <p align="center">======================</p>
 <p align="center"><img src='https://github.com/amon-cofie/amon-cofie/blob/main/handshake.gif' width="100px"></p>
