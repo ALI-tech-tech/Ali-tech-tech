@@ -1,6 +1,12 @@
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm ALi</h1>
-  
-<h3 align="center">Software Developer</h3>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ali+Ben+Jahlan!;" />
+</h1>
+
+<h3 align="center">A passionate software developer </h3>
+
+<br/>
+
+<div align="center">
 
 <p align="center">
 <a href="https://www.linkedin.com/in/ali-ben-jahlan-06848022a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="moyasi" height="30" width="40" /></a>
